@@ -13,6 +13,5 @@ steps:
   - name: Run echo command
     run: echo "Hello from GitHub Actions"
 
-Add Ci workflow
 
 
